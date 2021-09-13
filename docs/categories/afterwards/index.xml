@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Afterwards on BarCamp Cork</title>
-    <link>https://barcampcork.com/categories/afterwards/</link>
+    <link>https://www.barcampcork.org/categories/afterwards/</link>
     <description>Recent content in Afterwards on BarCamp Cork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2009 12:32:19 +0000</lastBuildDate><atom:link href="https://barcampcork.com/categories/afterwards/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2009 12:32:19 +0000</lastBuildDate><atom:link href="https://www.barcampcork.org/categories/afterwards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Competition suggestions</title>
-      <link>https://barcampcork.com/2009/11/26/competition-suggestions/</link>
+      <link>https://www.barcampcork.org/2009/11/26/competition-suggestions/</link>
       <pubDate>Thu, 26 Nov 2009 12:32:19 +0000</pubDate>
       
-      <guid>https://barcampcork.com/2009/11/26/competition-suggestions/</guid>
+      <guid>https://www.barcampcork.org/2009/11/26/competition-suggestions/</guid>
       <description>Thanks to the Sponsors of Barcamp Cork 2009, Microsoft, Assembly Point, Reilly &amp;amp; Co and Nitrosell, we have some freebies what we&amp;rsquo;d like to give away.
 We&amp;rsquo;d like to run a fun competition which a few people can win, we&amp;rsquo;ll be giving away some great free techie stuff. We&amp;rsquo;d like if the competition promoted the sponsors too since they helped make Barcamp happen.
 Any fun ideas for a competition?</description>
@@ -20,10 +20,10 @@ Any fun ideas for a competition?</description>
     
     <item>
       <title>Presentations from BarcampCork 2009</title>
-      <link>https://barcampcork.com/2009/11/18/presentations-from-barcampcork-2009/</link>
+      <link>https://www.barcampcork.org/2009/11/18/presentations-from-barcampcork-2009/</link>
       <pubDate>Wed, 18 Nov 2009 20:15:09 +0000</pubDate>
       
-      <guid>https://barcampcork.com/2009/11/18/presentations-from-barcampcork-2009/</guid>
+      <guid>https://www.barcampcork.org/2009/11/18/presentations-from-barcampcork-2009/</guid>
       <description>Thank you to all of those who gave talks at Barcamp Cork 2009. Here are some of the presentations from the day.
 Roland Steinmetz from meeting.ie streamed a couple of the talks from the day too, &amp;ldquo;VideoConferencing &amp;amp; Webcasting success&amp;rdquo; and &amp;ldquo;Green Washing and Green Future&amp;rdquo;
 Erlang For Five Nines from Tamas Nagy  
@@ -34,10 +34,10 @@ View more presentations from Barcamp Cork.</description>
     
     <item>
       <title>Organising a *Camp</title>
-      <link>https://barcampcork.com/2008/11/09/organising-a-camp/</link>
+      <link>https://www.barcampcork.org/2008/11/09/organising-a-camp/</link>
       <pubDate>Sun, 09 Nov 2008 10:23:46 +0000</pubDate>
       
-      <guid>https://barcampcork.com/2008/11/09/organising-a-camp/</guid>
+      <guid>https://www.barcampcork.org/2008/11/09/organising-a-camp/</guid>
       <description>If you attended BarCamp Cork and thought you&amp;rsquo;d like to run an unconference yourself, below is just a quick idea of what is involved.
   Try to have 2 and preferably 3 organisers. It&amp;rsquo;s possible as a solo run but can add to your stress level.
   The venue is the number 1 priority. If you can get it for free then you&amp;rsquo;ve done 75% of the work already.</description>
@@ -45,10 +45,10 @@ View more presentations from Barcamp Cork.</description>
     
     <item>
       <title>The good, the bad and the ugly</title>
-      <link>https://barcampcork.com/2008/11/09/the-good-the-bad-and-the-ugly/</link>
+      <link>https://www.barcampcork.org/2008/11/09/the-good-the-bad-and-the-ugly/</link>
       <pubDate>Sun, 09 Nov 2008 09:42:33 +0000</pubDate>
       
-      <guid>https://barcampcork.com/2008/11/09/the-good-the-bad-and-the-ugly/</guid>
+      <guid>https://www.barcampcork.org/2008/11/09/the-good-the-bad-and-the-ugly/</guid>
       <description>Every BarCamp is different and I hope we can learn each time from what went well and what didn&amp;rsquo;t. I&amp;rsquo;m going to kick off with a few of my thoughts about last weekend but I&amp;rsquo;m much more interested in hearing all of your thoughts.
 So in no particular order:
  The venue - still amazing and just ideal for an event like this Rooms - two is not enough. Even the addition of the small third room was insufficient.</description>
@@ -56,10 +56,10 @@ So in no particular order:
     
     <item>
       <title>The Carbon Calculator</title>
-      <link>https://barcampcork.com/2008/11/04/the-carbon-calculator/</link>
+      <link>https://www.barcampcork.org/2008/11/04/the-carbon-calculator/</link>
       <pubDate>Tue, 04 Nov 2008 16:32:35 +0000</pubDate>
       
-      <guid>https://barcampcork.com/2008/11/04/the-carbon-calculator/</guid>
+      <guid>https://www.barcampcork.org/2008/11/04/the-carbon-calculator/</guid>
       <description>Bart has made the code-drop from Saturday available. He&amp;rsquo;ll do another drop later this week with a better landing page etc.
  It requires:
  Python 2.5 Django 1.0 sqlite3 pysqlite3  Right now you can either access the http://localhost:8000/events/ or the http://localhost:8000/admin/ pages to play around. login: admin pass: barcamp
@@ -68,10 +68,10 @@ Code archive file: green.zip</description>
     
     <item>
       <title>BarCamp Photos</title>
-      <link>https://barcampcork.com/2008/11/04/barcamp-photos/</link>
+      <link>https://www.barcampcork.org/2008/11/04/barcamp-photos/</link>
       <pubDate>Tue, 04 Nov 2008 16:28:59 +0000</pubDate>
       
-      <guid>https://barcampcork.com/2008/11/04/barcamp-photos/</guid>
+      <guid>https://www.barcampcork.org/2008/11/04/barcamp-photos/</guid>
       <description>You&amp;rsquo;ll find photos of the day in two main locations:
 Pix.ie Flickr
 Some of the snappers include:
@@ -82,10 +82,10 @@ Leave a comment below with a direct link to your pics.</description>
     
     <item>
       <title>The Faces of BarCamp Cork</title>
-      <link>https://barcampcork.com/2008/11/02/the-faces-of-barcamp-cork/</link>
+      <link>https://www.barcampcork.org/2008/11/02/the-faces-of-barcamp-cork/</link>
       <pubDate>Sun, 02 Nov 2008 10:22:02 +0000</pubDate>
       
-      <guid>https://barcampcork.com/2008/11/02/the-faces-of-barcamp-cork/</guid>
+      <guid>https://www.barcampcork.org/2008/11/02/the-faces-of-barcamp-cork/</guid>
       <description>This is just brilliant. Well done Ian. Belly laugh on a Sunday morning post-BarCamp
 
 Faces of Barcamp from Ian O&amp;rsquo;Donnell on Vimeo.</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>matt mullenweg on BarCamp Cork</title>
-    <link>https://barcampcork.com/tags/matt-mullenweg/</link>
+    <link>https://www.barcampcork.org/tags/matt-mullenweg/</link>
     <description>Recent content in matt mullenweg on BarCamp Cork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2008 19:18:36 +0000</lastBuildDate><atom:link href="https://barcampcork.com/tags/matt-mullenweg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2008 19:18:36 +0000</lastBuildDate><atom:link href="https://www.barcampcork.org/tags/matt-mullenweg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automattic is our latest sponsor</title>
-      <link>https://barcampcork.com/2008/09/30/automattic-is-our-latest-sponsor/</link>
+      <link>https://www.barcampcork.org/2008/09/30/automattic-is-our-latest-sponsor/</link>
       <pubDate>Tue, 30 Sep 2008 19:18:36 +0000</pubDate>
       
-      <guid>https://barcampcork.com/2008/09/30/automattic-is-our-latest-sponsor/</guid>
+      <guid>https://www.barcampcork.org/2008/09/30/automattic-is-our-latest-sponsor/</guid>
       <description>We&amp;rsquo;re genuinely blown away that Donncha, Toni, Matt and the guys n gals in Automattic are sponsoring BarCamp Cork II. You&amp;rsquo;ll probably know them better as the people behind Wordpress, Wordpress.com, Wordpress MU and Akismet.
 This blog and thousands of other Irish ones, run on the software created by these guys and are protected from spam by them too. It all runs like a charm on a Blacknight shared hosting account.</description>
     </item>
