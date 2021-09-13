@@ -1,0 +1,19 @@
+---
+author: conor
+date: 2006-09-20 09:50:00+00:00
+draft: false
+title: Talk Talk
+type: post
+url: /2006/09/20/talk-talk/
+categories:
+- Admin
+tags:
+- barcamp
+- barcamp ireland
+- barcamp cork I
+- barcampcork
+---
+
+We’re playing with some options for online chat during the event. IRC is the most obvious one but we need to make sure that we have a web interface to that for those who don’t have an IRC client installed.
+One neat little doodah we found is Lace which is a nice web-based mini-chatroom. The author
+

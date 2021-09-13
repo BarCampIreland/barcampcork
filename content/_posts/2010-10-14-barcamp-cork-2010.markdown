@@ -1,0 +1,21 @@
+---
+author: james
+date: 2010-10-14 16:27:44+00:00
+draft: false
+title: BarCamp Cork 2010
+type: post
+url: /2010/10/14/barcamp-cork-2010/
+categories:
+- Announcements
+tags:
+- '2010'
+- barcamp
+- barcampcork
+- cork
+---
+
+I am delighted to announce that BarCamp Cork 2010 will take place on the 20th of November this year. Currently the venue is being finalised and we are getting our sponsors in order. I am thrilled that Microsoft Ireland and Maxroam have decided to be sponsors of BarCamp Cork this year.
+
+So ladies and gentle please head over to the [Sign-Up/Register](http://www.barcampcork.com/register/) page and get registered! We hope to have a massive attendance this year!
+
+Watch this space for updates and the [@BarCampCork](http://twitter.com/barcampcork) Twitter account too.

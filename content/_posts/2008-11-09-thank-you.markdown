@@ -1,0 +1,31 @@
+---
+author: conor
+date: 2008-11-09 09:07:46+00:00
+draft: false
+title: Thank YOU
+type: post
+url: /2008/11/09/thank-you/
+categories:
+- Announcements
+tags:
+- barcamp
+- barcampcork
+- webworks
+---
+
+This post should have been written last weekend so apologies for the slowness.
+
+There are a bunch of people to thank for the success of BarCamp. It genuinely couldn't have happened without them.
+
+
+
+* YOU! BarCamp is about everyone contributing in some way. The speakers did an awesome job and everyone else asked, discussed, argued and queried brilliantly. Thank you all (110+ of you) for coming and making it the best BarCamp yet.
+* Damien Mulley, Dan Barry, Kay Wright. This trio made the venue and much more happen. Kay went far far beyond the call of duty all day. Every BarCamp needs a Kay.
+* Damien. Again. He makes things happen. Nuff said. 
+* All of the sponsors. In these tough times, it is impressive to see local companies supporting events like BarCamp. Behind companies/organisations are people. Those people include Pat Phelan, Michele Neylon, Donncha O'Caoimh, Matt Mullenweg, Dan Barry, Kay Wright, John Henry Donovan and Jack Donaghy
+* Pat Phelan. Again. With good reason. Pat not only sponsored lunch, he also gave over his offices for two talks, gave a talk, provided equipment and most of all, provided enormous moral support all day.
+* John Henry Donovan. Again. Still the best BarCamp logo ever. And for doing the sign-up system too
+* Every person who got the word out and there are lots of you. At least 50% of the faces at BarCamp were new and that was down to you
+* Phoebe Bright and Bartosz Ptaszynski for doing all the heavy lifting on the webapp. There are still more lessons to be learned there and hopefully one of them will do a follow-up post here.
+* Donogh and Odette did a super job interviewing people. We'll see the videos in the coming days.
+

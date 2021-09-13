@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photos on BarCamp Cork</title>
+    <link>https://barcampcork.com/tags/photos/</link>
+    <description>Recent content in photos on BarCamp Cork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Nov 2008 16:28:59 +0000</lastBuildDate><atom:link href="https://barcampcork.com/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BarCamp Photos</title>
+      <link>https://barcampcork.com/2008/11/04/barcamp-photos/</link>
+      <pubDate>Tue, 04 Nov 2008 16:28:59 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/2008/11/04/barcamp-photos/</guid>
+      <description>You&amp;rsquo;ll find photos of the day in two main locations:
+Pix.ie Flickr
+Some of the snappers include:
+Phil O&amp;rsquo;Kane Alexia Golez Donncha O&amp;rsquo;Caoimh Jessica Mannering Me
+In general if you are uploading pics, please tag them with &amp;ldquo;barcampcork&amp;rdquo; so we can find them on the various sites.
+Leave a comment below with a direct link to your pics.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on BarCamp Cork</title>
+    <link>https://barcampcork.com/categories/</link>
+    <description>Recent content in Categories on BarCamp Cork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Nov 2010 10:45:04 +0000</lastBuildDate><atom:link href="https://barcampcork.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcements</title>
+      <link>https://barcampcork.com/categories/announcements/</link>
+      <pubDate>Fri, 19 Nov 2010 10:45:04 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/categories/announcements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>https://barcampcork.com/categories/sponsors/</link>
+      <pubDate>Fri, 19 Nov 2010 10:24:11 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/categories/sponsors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistics</title>
+      <link>https://barcampcork.com/categories/logistics/</link>
+      <pubDate>Thu, 18 Nov 2010 18:25:50 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/categories/logistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>https://barcampcork.com/categories/vision/</link>
+      <pubDate>Thu, 18 Nov 2010 18:14:02 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/categories/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Afterwards</title>
+      <link>https://barcampcork.com/categories/afterwards/</link>
+      <pubDate>Thu, 26 Nov 2009 12:32:19 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/categories/afterwards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Admin</title>
+      <link>https://barcampcork.com/categories/admin/</link>
+      <pubDate>Wed, 15 Oct 2008 11:07:10 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/categories/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speakers</title>
+      <link>https://barcampcork.com/categories/speakers/</link>
+      <pubDate>Thu, 05 Oct 2006 08:51:00 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/categories/speakers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>https://barcampcork.com/categories/general/</link>
+      <pubDate>Mon, 02 Oct 2006 09:37:00 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Press</title>
+      <link>https://barcampcork.com/categories/press/</link>
+      <pubDate>Thu, 07 Sep 2006 10:53:00 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/categories/press/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

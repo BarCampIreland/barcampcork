@@ -1,0 +1,26 @@
+---
+author: conor
+date: 2006-09-10 09:01:00+00:00
+draft: false
+title: Sponsors
+type: post
+url: /2006/09/10/sponsors/
+categories:
+- Admin
+tags:
+- barcamp
+- barcamp ireland
+- barcamp cork I
+- barcampcork
+---
+
+We’d like to thank all of our confirmed sponsors so far:
+
+* Webworks (and Enterprise Ireland) for the great building and free WiFi
+* Heineken Ireland
+* Qumas
+* Roam4Free
+* Bubble Brothers
+* Hosting365
+
+If you wish to sponsor the event in any way please contact Conor O’Neill, Walter Higgins or Damien Mulley.

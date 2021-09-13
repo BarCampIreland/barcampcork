@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>twitter on BarCamp Cork</title>
+    <link>https://barcampcork.com/tags/twitter/</link>
+    <description>Recent content in twitter on BarCamp Cork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Oct 2008 22:07:02 +0000</lastBuildDate><atom:link href="https://barcampcork.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Do You Use Twitter?</title>
+      <link>https://barcampcork.com/2008/10/19/how-do-you-use-twitter/</link>
+      <pubDate>Sun, 19 Oct 2008 22:07:02 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/2008/10/19/how-do-you-use-twitter/</guid>
+      <description>Will Knott is doing a session on Twitter at BarCamp.
+To help with this, he&amp;rsquo;d really appreciate it if you could fill out a very simple 4 question survey.</description>
+    </item>
+    
+  </channel>
+</rss>

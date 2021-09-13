@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maxroam on BarCamp Cork</title>
+    <link>https://barcampcork.com/tags/maxroam/</link>
+    <description>Recent content in maxroam on BarCamp Cork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Nov 2010 13:50:00 +0000</lastBuildDate><atom:link href="https://barcampcork.com/tags/maxroam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sponsors</title>
+      <link>https://barcampcork.com/2010/11/10/the-sponsors/</link>
+      <pubDate>Wed, 10 Nov 2010 13:50:00 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/2010/11/10/the-sponsors/</guid>
+      <description>An event like Barcamp Cork or any other event for that matter could not run without sponsors. This year we have some fantastic sponsors that have been absolutely amazing to us, helping us organise a free conference for you! Reciprocate the kindness and check them out!
+Microsoft Ireland
+Blacknight
+   Just Mobile
+   </description>
+    </item>
+    
+    <item>
+      <title>Two more Sponsors</title>
+      <link>https://barcampcork.com/2008/10/23/two-more-sponsors/</link>
+      <pubDate>Thu, 23 Oct 2008 10:12:28 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/2008/10/23/two-more-sponsors/</guid>
+      <description>A big thank you to Pat Phelan of Cubic Telecom for sponsoring the lunch at BarCamp. The ice-swans and champagne fountains have been ordered. But seriously, Pat has been a fantastic supporter of of the tech community and many of us are in his debt.
+
+Thanks also to John Henry Donovan of 5pieces who took care of the licensing of our sign-up form. This was totally unexpected and very much appreciated.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webapp on BarCamp Cork</title>
+    <link>https://barcampcork.com/tags/webapp/</link>
+    <description>Recent content in webapp on BarCamp Cork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Oct 2008 20:54:32 +0000</lastBuildDate><atom:link href="https://barcampcork.com/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webapp Update</title>
+      <link>https://barcampcork.com/2008/10/28/webapp-update/</link>
+      <pubDate>Tue, 28 Oct 2008 20:54:32 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/2008/10/28/webapp-update/</guid>
+      <description>After the feedback we&amp;rsquo;ve received on the &amp;ldquo;Build a Webapp in a Day&amp;rdquo; proposal along with some discussions last Friday, we&amp;rsquo;ve decided to re-position things slightly.
+The idea now is that the webapp will be the tangible output from a very extended training session in the Django web framework given by Bartosz Ptaszynski. The plan therefore is now as follows:
+  Bart will kick off an introduction to Django as the first tutorial of the day at 10am Anyone who is interested and is generally competent in programming is very welcome to take part in the build At least one designer is needed to make this look great At 10.</description>
+    </item>
+    
+  </channel>
+</rss>

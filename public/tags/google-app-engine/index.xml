@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google app engine on BarCamp Cork</title>
+    <link>https://barcampcork.com/tags/google-app-engine/</link>
+    <description>Recent content in google app engine on BarCamp Cork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Oct 2008 08:35:04 +0000</lastBuildDate><atom:link href="https://barcampcork.com/tags/google-app-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Learning Django&#34; Tutorial Session</title>
+      <link>https://barcampcork.com/2008/10/23/learning-django-tutorial-session/</link>
+      <pubDate>Thu, 23 Oct 2008 08:35:04 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/2008/10/23/learning-django-tutorial-session/</guid>
+      <description>Bartosz Ptaszynski will be running a tutorial session on the Python Web Framework Django. It is aimed at anyone who wants to get a feel for what these frameworks are all about and how they can help you. One group in particular who might benefit are web designers who want some insight into the development process.
+Django has effectively become the de facto Python Web framework over the past twelve months.</description>
+    </item>
+    
+  </channel>
+</rss>

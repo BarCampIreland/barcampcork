@@ -1,0 +1,34 @@
+baseURL = 'https://barcampcork.com/'
+languageCode = 'en-us'
+title = 'BarCamp Cork'
+theme = "m10c"
+
+[params]
+author = 'BarCamp Cork'
+description = "Ireland's first BarCamp from 2006-2010"
+avatar = '/barcamp_logo_flame.png'
+menu_item_separator = ' <div>&nbsp;</div> '
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+
+[[menu.main]]
+  identifier = "attendees"
+  name = "Attendees"
+  url = "/attendees/"
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+
+[[menu.main]]
+  identifier = "sponsors"
+  name = "Sponsors"
+  url = "/sponsors/"

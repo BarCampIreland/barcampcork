@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>app-in-a-day on BarCamp Cork</title>
+    <link>https://barcampcork.com/tags/app-in-a-day/</link>
+    <description>Recent content in app-in-a-day on BarCamp Cork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Oct 2008 08:52:12 +0000</lastBuildDate><atom:link href="https://barcampcork.com/tags/app-in-a-day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Build A Web-App in a Day&#34; at BarCamp</title>
+      <link>https://barcampcork.com/2008/10/23/build-a-web-app-in-a-day-at-barcamp/</link>
+      <pubDate>Thu, 23 Oct 2008 08:52:12 +0000</pubDate>
+      
+      <guid>https://barcampcork.com/2008/10/23/build-a-web-app-in-a-day-at-barcamp/</guid>
+      <description>A few of us have been bouncing around the idea of building a web application in one day for the past few months. BarCamp seems like the ideal opportunity to try this. From the sign-up comments, it looks like plenty of people are interested in taking part. Unlike the impromptu style of the rest of the day, this one does require quite a bit of up-front preparation if it is to succeed.</description>
+    </item>
+    
+  </channel>
+</rss>
