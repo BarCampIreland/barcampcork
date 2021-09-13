@@ -7,7 +7,7 @@ type: page
 url: /sponsors/
 ---
 
-**BarCamp Cork IV is a free event due to our very kind sponsors and supporters**
+**BarCamp Cork was a free event due to the very kind sponsors and supporters including:**
 
 [Microsoft Ireland](http://www.microsoft.com/ireland/)
 
