@@ -15,6 +15,11 @@ unsafe = true
 
 [menu]
 [[menu.main]]
+  identifier = "Blog"
+  name = "Blog"
+  url = "/"
+
+[[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
