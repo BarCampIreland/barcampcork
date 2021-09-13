@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>django on BarCamp Cork</title>
-    <link>https://www.barcampcork.org/tags/django/</link>
+    <link>https://barcampcork.org/tags/django/</link>
     <description>Recent content in django on BarCamp Cork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Oct 2008 20:54:32 +0000</lastBuildDate><atom:link href="https://www.barcampcork.org/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Oct 2008 20:54:32 +0000</lastBuildDate><atom:link href="https://barcampcork.org/tags/django/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Webapp Update</title>
-      <link>https://www.barcampcork.org/2008/10/28/webapp-update/</link>
+      <link>https://barcampcork.org/2008/10/28/webapp-update/</link>
       <pubDate>Tue, 28 Oct 2008 20:54:32 +0000</pubDate>
       
-      <guid>https://www.barcampcork.org/2008/10/28/webapp-update/</guid>
+      <guid>https://barcampcork.org/2008/10/28/webapp-update/</guid>
       <description>After the feedback we&amp;rsquo;ve received on the &amp;ldquo;Build a Webapp in a Day&amp;rdquo; proposal along with some discussions last Friday, we&amp;rsquo;ve decided to re-position things slightly.
 The idea now is that the webapp will be the tangible output from a very extended training session in the Django web framework given by Bartosz Ptaszynski. The plan therefore is now as follows:
   Bart will kick off an introduction to Django as the first tutorial of the day at 10am Anyone who is interested and is generally competent in programming is very welcome to take part in the build At least one designer is needed to make this look great At 10.</description>
@@ -20,10 +20,10 @@ The idea now is that the webapp will be the tangible output from a very extended
     
     <item>
       <title>&#34;Learning Django&#34; Tutorial Session</title>
-      <link>https://www.barcampcork.org/2008/10/23/learning-django-tutorial-session/</link>
+      <link>https://barcampcork.org/2008/10/23/learning-django-tutorial-session/</link>
       <pubDate>Thu, 23 Oct 2008 08:35:04 +0000</pubDate>
       
-      <guid>https://www.barcampcork.org/2008/10/23/learning-django-tutorial-session/</guid>
+      <guid>https://barcampcork.org/2008/10/23/learning-django-tutorial-session/</guid>
       <description>Bartosz Ptaszynski will be running a tutorial session on the Python Web Framework Django. It is aimed at anyone who wants to get a feel for what these frameworks are all about and how they can help you. One group in particular who might benefit are web designers who want some insight into the development process.
 Django has effectively become the de facto Python Web framework over the past twelve months.</description>
     </item>

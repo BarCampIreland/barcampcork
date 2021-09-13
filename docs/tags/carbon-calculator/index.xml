@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>carbon calculator on BarCamp Cork</title>
-    <link>https://www.barcampcork.org/tags/carbon-calculator/</link>
+    <link>https://barcampcork.org/tags/carbon-calculator/</link>
     <description>Recent content in carbon calculator on BarCamp Cork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Nov 2008 16:32:35 +0000</lastBuildDate><atom:link href="https://www.barcampcork.org/tags/carbon-calculator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Nov 2008 16:32:35 +0000</lastBuildDate><atom:link href="https://barcampcork.org/tags/carbon-calculator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Carbon Calculator</title>
-      <link>https://www.barcampcork.org/2008/11/04/the-carbon-calculator/</link>
+      <link>https://barcampcork.org/2008/11/04/the-carbon-calculator/</link>
       <pubDate>Tue, 04 Nov 2008 16:32:35 +0000</pubDate>
       
-      <guid>https://www.barcampcork.org/2008/11/04/the-carbon-calculator/</guid>
+      <guid>https://barcampcork.org/2008/11/04/the-carbon-calculator/</guid>
       <description>Bart has made the code-drop from Saturday available. He&amp;rsquo;ll do another drop later this week with a better landing page etc.
  It requires:
  Python 2.5 Django 1.0 sqlite3 pysqlite3  Right now you can either access the http://localhost:8000/events/ or the http://localhost:8000/admin/ pages to play around. login: admin pass: barcamp

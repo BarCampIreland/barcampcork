@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>presentations on BarCamp Cork</title>
-    <link>https://www.barcampcork.org/tags/presentations/</link>
+    <link>https://barcampcork.org/tags/presentations/</link>
     <description>Recent content in presentations on BarCamp Cork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2009 20:15:09 +0000</lastBuildDate><atom:link href="https://www.barcampcork.org/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Nov 2009 20:15:09 +0000</lastBuildDate><atom:link href="https://barcampcork.org/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentations from BarcampCork 2009</title>
-      <link>https://www.barcampcork.org/2009/11/18/presentations-from-barcampcork-2009/</link>
+      <link>https://barcampcork.org/2009/11/18/presentations-from-barcampcork-2009/</link>
       <pubDate>Wed, 18 Nov 2009 20:15:09 +0000</pubDate>
       
-      <guid>https://www.barcampcork.org/2009/11/18/presentations-from-barcampcork-2009/</guid>
+      <guid>https://barcampcork.org/2009/11/18/presentations-from-barcampcork-2009/</guid>
       <description>Thank you to all of those who gave talks at Barcamp Cork 2009. Here are some of the presentations from the day.
 Roland Steinmetz from meeting.ie streamed a couple of the talks from the day too, &amp;ldquo;VideoConferencing &amp;amp; Webcasting success&amp;rdquo; and &amp;ldquo;Green Washing and Green Future&amp;rdquo;
 Erlang For Five Nines from Tamas Nagy  

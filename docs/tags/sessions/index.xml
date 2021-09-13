@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sessions on BarCamp Cork</title>
-    <link>https://www.barcampcork.org/tags/sessions/</link>
+    <link>https://barcampcork.org/tags/sessions/</link>
     <description>Recent content in sessions on BarCamp Cork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2009 12:30:00 +0000</lastBuildDate><atom:link href="https://www.barcampcork.org/tags/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2009 12:30:00 +0000</lastBuildDate><atom:link href="https://barcampcork.org/tags/sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are there topics you would like covered at BarCamp Cork?</title>
-      <link>https://www.barcampcork.org/2009/10/28/are-there-topics-you-would-like-covered-at-barcamp-cork/</link>
+      <link>https://barcampcork.org/2009/10/28/are-there-topics-you-would-like-covered-at-barcamp-cork/</link>
       <pubDate>Wed, 28 Oct 2009 12:30:00 +0000</pubDate>
       
-      <guid>https://www.barcampcork.org/2009/10/28/are-there-topics-you-would-like-covered-at-barcamp-cork/</guid>
+      <guid>https://barcampcork.org/2009/10/28/are-there-topics-you-would-like-covered-at-barcamp-cork/</guid>
       <description>Over 50 people are attending BarCampCork in November so far, are you going? If you can, please register your interest so we have an idea of numbers and know how much coffee to pour on the day.
 19 people have registered to give talks on the day too so far, Thank you all for giving these talks. If you know anyone that would give an interesting techie talk, can you give them a little nudge to talk?</description>
     </item>

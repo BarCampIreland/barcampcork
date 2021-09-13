@@ -1,4 +1,4 @@
-baseURL = 'https://www.barcampcork.org/'
+baseURL = 'https://barcampcork.org/'
 languageCode = 'en-us'
 title = 'BarCamp Cork'
 theme = "m10c"
